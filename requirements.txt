@@ -1,0 +1,11 @@
+streamlit
+firebase-admin
+google-cloud-firestore
+google-cloud-storage
+google-genai
+fsspec
+gcsfs
+nest_asyncio
+pandas
+matplotlib
+seaborn
