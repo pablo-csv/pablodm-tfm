@@ -15,7 +15,7 @@ Este repositorio contiene el **código fuente** del Trabajo Fin de Máster
 - `gcs_utils.py` — Funciones auxiliares para conexión a Google Cloud Storage.  
 - `requirements.txt` — Dependencias del proyecto.  
 - `data/skills_es.csv` — Lista de habilidades ESCO en español (para autocompletado).  
-- `docs/TFM.pdf` — Memoria completa del TFM.
+- `docs/TFM_Pablo_Díaz_Masa_COMPLETO.pdf` — Memoria completa del TFM.
 
 ---
 
